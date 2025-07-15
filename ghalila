@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>تفاصيل اللقاء</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+        .container {
+            background-color: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+        }
+
+        p {
+            font-size: 18px;
+            color: #34495e;
+        }
+
+        a {
+            color: #e74c3c;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>تفاصيل اللقاء</h1>
+        <p>📅 التاريخ: الخميس 17 جوان 2025</p>
+        <p>🕔 التوقيت: الساعة 6:50 مساءً</p>
+        <p>📍 الموقع: <a href="https://maps.google.com/?q=حديقة+استراحة+سيدي العابد" target="_blank">انقر هنا لفتح الموقع على خرائط جوجل</a></p>
+    </div>
+</body>
+</html>
